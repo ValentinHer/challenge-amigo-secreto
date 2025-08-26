@@ -25,3 +25,18 @@ const agregarAmigo = () => {
     }).join("")
 
 }
+
+const sortearAmigo = () => {
+    if(amigos.length <= 0) {
+        alert("No tiene amigos disponibles");
+        return;
+    }
+
+    let randomNumber = Math.floor(Math.random() * amigos.length);
+
+    let result = document.getElementById("resultado");
+
+    result.innerHTML = `<li>
+                           Tu amigo secreto es ${amigos[randomNumber]}
+                        </li>`;
+}
