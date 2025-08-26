@@ -17,9 +17,5 @@ Aplicación que permite al usuario ingresar nombres de sus amigos en una lista p
 
 ## 📦 Instalación y Ejecución
 1. Clona o descarga el archivo `.zip` del repositorio.
-1. Ejecuta el siguiente comando para instalar las dependencias:
-    ```
-    npm install
-    ```
 
-1. Una vez instaladas las dependencias, utiliza la extensión "Live Server" para que este te de un puerto por defecto al que puedas acceder desde tu navegdaor y accede al archivo `index.html` (desde tu navegador).
+1. Utiliza la extensión "Live Server" para que este te de un puerto por defecto al que puedas acceder desde tu navegdaor y accede al archivo `index.html` (desde tu navegador).
