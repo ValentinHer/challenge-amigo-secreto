@@ -13,7 +13,7 @@ Aplicación que permite al usuario ingresar nombres de sus amigos en una lista p
 - Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 ## 🛠️ Tecnologías utilizadas
-- HTML, CSS, JavaScript.s
+- HTML, CSS, JavaScript.
 
 ## 📦 Instalación y Ejecución
 1. Clona o descarga el archivo `.zip` del repositorio.
